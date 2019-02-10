@@ -1,0 +1,12 @@
+section {
+    display: block;
+    width: 20px;
+    height: 70px;
+    line-height: 40px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: right;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
